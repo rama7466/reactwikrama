@@ -9,7 +9,6 @@ const Side = ({ toggleChange }) => {
       <article className="sidebar">
         <div className="content">
           <div className="top-section">
-            <button className="btn btn-connect">Mint a Shark</button>
             <img
               src={closeburger}
               alt="toggle"
@@ -27,25 +26,14 @@ const Side = ({ toggleChange }) => {
               <h2>Roadmap & Utility</h2>
               <img src={arrowRight} alt="arrow" />
             </a>
-            <a className="link" href="#traits">
-              <h2>Trait Rarity</h2>
-              <img src={arrowRight} alt="arrow" />
-            </a>
             <a className="link" href="#faq">
               <h2>FAQs</h2>
               <img src={arrowRight} alt="arrow" />
             </a>
           </div>
-          <div className="mid-text">
-            <p>Join the Rogue Shark Community</p>
-            <p className="bigtext">
-              An adventure to Lake Baikal, the deepest lake on earth, with
-              temperatures as low as -40°C.{" "}
-            </p>
-          </div>
           <div className="footer-btns">
-            <button className="btn btn-connect">Join Discord</button>
-            <button className="btn btn-mint">Follow Twitter</button>
+            <button className="btn btn-connect">Join wikrama</button>
+            <button className="btn btn-mint">Follow wikrama account</button>
           </div>
         </div>
       </article>
