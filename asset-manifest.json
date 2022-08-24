@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactwikrama/static/css/main.5dfb5725.chunk.css",
-    "main.js": "/reactwikrama/static/js/main.3196acc1.chunk.js",
-    "main.js.map": "/reactwikrama/static/js/main.3196acc1.chunk.js.map",
+    "main.js": "/reactwikrama/static/js/main.e3b209f5.chunk.js",
+    "main.js.map": "/reactwikrama/static/js/main.e3b209f5.chunk.js.map",
     "runtime-main.js": "/reactwikrama/static/js/runtime-main.65a336f4.js",
     "runtime-main.js.map": "/reactwikrama/static/js/runtime-main.65a336f4.js.map",
     "static/css/2.acde2fb2.chunk.css": "/reactwikrama/static/css/2.acde2fb2.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.acde2fb2.chunk.css",
     "static/js/2.0e9633c9.chunk.js",
     "static/css/main.5dfb5725.chunk.css",
-    "static/js/main.3196acc1.chunk.js"
+    "static/js/main.e3b209f5.chunk.js"
   ]
 }
